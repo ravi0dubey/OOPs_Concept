@@ -51,9 +51,6 @@ class student_intership(student_college,student):
 
 
 
-
-
-
 # student1= student("Ravi","Data Science","Data Analytics","Java")
 student1= student("Ravi","Data Analytics")
 student1.print_student_details()
