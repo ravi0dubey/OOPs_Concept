@@ -1,4 +1,4 @@
-#class Student
+#class Student1
 class student:
     def __init__(self, name1,course):
         self.course_list = []
